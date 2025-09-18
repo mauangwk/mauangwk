@@ -14,11 +14,11 @@
 <br>
 
 
-### ⚙️ &nbsp; Some *great* Projects
+### ⚙️ &nbsp; Recent relevant projects
 <ul>
   <li>
   <a href="https://github.com/mauangwk/interconnect_churn_prevention" target="_blank">
-    <b>Churn Prevention Analysis</b>
+    <b>Churn Prevention Analysis</b> (spanish version)
   </a>
     <p>A telco would like to be able to predict its customer churn rate. If it discovers a customer is planning to leave, it can react to try to retain them.</p>
   </li>
