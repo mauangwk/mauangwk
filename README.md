@@ -1,27 +1,37 @@
 <img src="https://lh3.googleusercontent.com/d/1kOJkYz_NSklYflDMEGRTDZ3_Utpf8TtQ">
 
-## 👋 Hi, I’m Mauricio Anguiano, growing in a Data World
+## 👋 Welcome to my GitHub profile! I’m Mauricio Anguiano, growing in a Data World
+Below, you'll find more about me, my skills, and the projects I'm working on.
 
-### About me...
+---
 
-
+### 👨‍💻 About me...
+- 🌍 Based in Mexico, CDMX.
 - 👀 I’m interested in Data Science & Machine Learning. I hope the whole life going easy with new technology as a driver for the progress.
+- 🌟 Passionate about **machine learning**, **data visualization**, and creating innovative solutions.
 - 🌱 As a mantra, I’m trying to learn something every day ...
 - 💞️ I've always liked to collaborate on interesting/curious projects that in the new era will be an impact in the companies and everyone's daily life ...
 - 📫 I'm always open to networking, feel free to reach me out by mail or by my linkedin ...
 - ⚡ Fun fact: I decided to take a look to an engineer career because I received a "call" from a kind smart machine and I said, ok, yes ...
 
-<br>
+---
+
+### 🛠️ Technical Skills
+- **Programming Languages:** Python, SQL, Java
+- **Data Analysis:** Pandas, Sci-kit Learn, Matplotlib, Seaborn
+- **Visualization Tools:** Tableau
+- **Cloud Platforms:** AWS, Azure
+
+--- 
 
 
-### ⚙️ &nbsp; Recent relevant projects
+### 📊 Recent Projects
+1. **Churn Prevention Analysis**  
+   - **Tools Used:** Python, Jupyter Notebooks, Scikit learn  
+   - **Summary:** A telco would like to be able to predict its customer churn rate. If it discovers a customer is planning to leave, it can react to try to retain them.
+   - <a href="https://github.com/mauangwk/interconnect_churn_prevention" target="_blank">Go to...</a>
+
 <ul>
-  <li>
-  <a href="https://github.com/mauangwk/interconnect_churn_prevention" target="_blank">
-    <b>Churn Prevention Analysis</b> (spanish version)
-  </a>
-    <p>A telco would like to be able to predict its customer churn rate. If it discovers a customer is planning to leave, it can react to try to retain them.</p>
-  </li>
   <li>
   <a href="https://github.com/mauangwk/ads-car-viewer" target="_blank">
     <b>Ad Viewer</b>
