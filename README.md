@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/d/1kOJkYz_NSklYflDMEGRTDZ3_Utpf8TtQ">
+<img alt="banner" src="https://lh3.googleusercontent.com/d/1kOJkYz_NSklYflDMEGRTDZ3_Utpf8TtQ">
 
 ## 👋 Welcome to my GitHub profile! I’m Mauricio Anguiano, growing in a Data World
 Below, you'll find more about me, my skills, and the projects I'm working on.
@@ -26,35 +26,27 @@ Below, you'll find more about me, my skills, and the projects I'm working on.
 
 
 ### 📊 Recent Projects
-1. **Churn Prevention Analysis**  
-   - **Tools Used:** Python, Jupyter Notebooks, Scikit learn  
+1. **<a href="https://github.com/mauangwk/interconnect_churn_prevention" target="_blank">Churn Prevention Analysis</a>**
    - **Summary:** A telco would like to be able to predict its customer churn rate. If it discovers a customer is planning to leave, it can react to try to retain them.
-   - <a href="https://github.com/mauangwk/interconnect_churn_prevention" target="_blank">Go to...</a>
+   - **Tools Used:** Python, Jupyter Notebooks, Scikit learn  
 
-<ul>
-  <li>
-  <a href="https://github.com/mauangwk/ads-car-viewer" target="_blank">
-    <b>Ad Viewer</b>
-  </a>
-    <p>This website provides a means to view a data set of car sales advertisements.
-    A series of graphs can be displayed that could give you an idea of the advertisments behavior using the data.</p>
-  </li>
-</ul>
+2. **<a href="https://github.com/mauangwk/ads-car-viewer" target="_blank">Ad Viewer</a>**
+   - **Summary:** This website provides a means to view a data set of car sales advertisements. A series of graphs can be displayed that could give you an idea of the advertisments behavior using the data.
+   - **Tools Used:** Python, Jupyter Notebook, Streamlit
+
+---
 
 However, please feel free to check all my repositories
 
-<br>
-
-### ⚙️ &nbsp; My GitHub Analytics
+### ⚙️ My GitHub Analytics
 
 <p align="center">
-    <!--
-<a href="https://github.com/mauangwk">
 
+<!--
+<a href="https://github.com/mauangwk">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mauangwk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mauangwk&layout=compact&langs_count=8&theme=algolia"/>
 -->
-
 
 <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=mauangwk&theme=nord&hide_border=false"/><br>
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=mauangwk&theme=nord&show_icons=true&hide_border=false&count_private=true&include_all_commits=true"/><br>
