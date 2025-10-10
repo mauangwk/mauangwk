@@ -28,11 +28,15 @@ Below, you'll find more about me, my skills, and the projects I'm working on.
 ### 📊 Recent Projects
 1. **<a href="https://github.com/mauangwk/interconnect_churn_prevention" target="_blank">Churn Prevention Analysis</a>**
    - **Summary:** A telco would like to be able to predict its customer churn rate. If it discovers a customer is planning to leave, it can react to try to retain them.
-   - **Tools Used:** Python, Jupyter Notebooks, Scikit learn  
+   - **Used Tools:** Python, Jupyter Notebooks, Scikit learn  
 
-2. **<a href="https://github.com/mauangwk/ads-car-viewer" target="_blank">Ad Viewer</a>**
+2. **<a href="https://github.com/mauangwk/slt_order_demand_prediction" target="_blank">Order Demand Prediction</a>**
+   - **Summary:** For a taxi company, using historical data on airport requests, it's necessary to predict the number of requests for the next hour. This estimated information is used to attract more drivers during peak hours and meet demand.
+   - **Used Tools:** Pandas, Matplotlib, Scikit Learn, Python, Jupyter Notebooks
+
+3. **<a href="https://github.com/mauangwk/ads-car-viewer" target="_blank">Ad Viewer</a>**
    - **Summary:** This website provides a means to view a data set of car sales advertisements. A series of graphs can be displayed that could give you an idea of the advertisments behavior using the data.
-   - **Tools Used:** Python, Jupyter Notebook, Streamlit
+   - **Used Tools:** Python, Jupyter Notebook, Streamlit
 
 ---
 
