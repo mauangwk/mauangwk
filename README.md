@@ -34,7 +34,11 @@ Below, you'll find more about me, my skills, and the projects I'm working on.
    - **Summary:** For a taxi company, using historical data on airport requests, it's necessary to predict the number of requests for the next hour. This estimated information is used to attract more drivers during peak hours and meet demand.
    - **Used Tools:** Pandas, Matplotlib, Scikit Learn, Python, Jupyter Notebooks
 
-3. **<a href="https://github.com/mauangwk/ads-car-viewer" target="_blank">Ad Viewer</a>**
+3. **<a href="https://github.com/mauangwk/goil_profits_risks" target="_blank">How to make a decision to get Best Profits and Lower Risks</a>**
+   - **Summary:** For an oil company, it is essential to select an optimal region in which to operate its oil wells, thereby achieving the best profit margin and the greatest reduction in potential risks.
+   - **Used Tools:** Pandas, Matplotlib, Seaborn, Scikit Learn, Python, Jupyter Notebooks
+
+4. **<a href="https://github.com/mauangwk/ads-car-viewer" target="_blank">Ad Viewer</a>**
    - **Summary:** This website provides a means to view a data set of car sales advertisements. A series of graphs can be displayed that could give you an idea of the advertisments behavior using the data.
    - **Used Tools:** Python, Jupyter Notebook, Streamlit
 
