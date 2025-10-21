@@ -26,6 +26,10 @@ Below, you'll find more about me, my skills, and the projects I'm working on.
 
 
 ### 📊 Recent Projects
+1. **<a href="https://github.com/mauangwk/bankmkt_term_deposit_pred" target="_blank">Bank Marketing Analysis</a>**
+   - **Summary:** In a bank industry, we want to predict based on a marketing campaingn (basically phone calls) if a client will subscribe a term deposit (our target characteristic).
+   - **Used Tools:** Python, Jupyter Notebooks, Scikit learn, Seaborn, Pandas
+
 1. **<a href="https://github.com/mauangwk/interconnect_churn_prevention" target="_blank">Churn Prevention Analysis</a>**
    - **Summary:** A telco would like to be able to predict its customer churn rate. If it discovers a customer is planning to leave, it can react to try to retain them.
    - **Used Tools:** Python, Jupyter Notebooks, Scikit learn  
